@@ -1,0 +1,187 @@
+{
+  "internal_catalog": [
+    {
+      "id": "PEPSI_001",
+      "name": "Pepsi Regular 330ml Can",
+      "category": "carbonated drinks",
+      "brand": "pepsi",
+      "size": "330ml",
+      "type": "can"
+    },
+    {
+      "id": "PEPSI_002",
+      "name": "Pepsi Regular 355ml Can 12pk",
+      "category": "carbonated drinks",
+      "brand": "pepsi",
+      "size": "355ml",
+      "type": "multipack"
+    },
+    {
+      "id": "PEPSI_003",
+      "name": "Pepsi Regular 2L Bottle",
+      "category": "carbonated drinks",
+      "brand": "pepsi",
+      "size": "2l",
+      "type": "bottle"
+    },
+    {
+      "id": "PEPSI_004",
+      "name": "Pepsi Diet 500ml Bottle 6pk",
+      "category": "carbonated drinks",
+      "brand": "pepsi",
+      "size": "500ml",
+      "type": "multipack"
+    },
+    {
+      "id": "PEPSI_005",
+      "name": "Mountain Dew 20oz Bottle",
+      "category": "carbonated drinks",
+      "brand": "mountain dew",
+      "size": "20oz",
+      "type": "bottle"
+    },
+    {
+      "id": "LAYS_001",
+      "name": "Lay's Classic 40g Bag",
+      "category": "snacks",
+      "brand": "lays",
+      "size": "40g",
+      "type": "bag"
+    },
+    {
+      "id": "LAYS_002",
+      "name": "Lay's Classic 50g Bag 8pk",
+      "category": "snacks",
+      "brand": "lays",
+      "size": "50g",
+      "type": "multipack"
+    },
+    {
+      "id": "LAYS_003",
+      "name": "Lay's BBQ 200g Family Size",
+      "category": "snacks",
+      "brand": "lays",
+      "size": "200g",
+      "type": "family"
+    },
+    {
+      "id": "DORI_001",
+      "name": "Doritos Nacho Cheese 140g",
+      "category": "snacks",
+      "brand": "doritos",
+      "size": "140g",
+      "type": "bag"
+    },
+    {
+      "id": "DORI_002",
+      "name": "Doritos Cool Ranch 64g",
+      "category": "snacks",
+      "brand": "doritos",
+      "size": "64g",
+      "type": "bag"
+    },
+    {
+      "id": "GATO_001",
+      "name": "Gatorade Blue 32oz Bottle",
+      "category": "sports drinks",
+      "brand": "gatorade",
+      "size": "32oz",
+      "type": "bottle"
+    },
+    {
+      "id": "GATO_002",
+      "name": "Gatorade Red 20oz Bottle 12pk",
+      "category": "sports drinks",
+      "brand": "gatorade",
+      "size": "20oz",
+      "type": "multipack"
+    },
+    {
+      "id": "TROP_001",
+      "name": "Tropicana Orange Juice 59oz",
+      "category": "juices",
+      "brand": "tropicana",
+      "size": "59oz",
+      "type": "carton"
+    },
+    {
+      "id": "QUET_001",
+      "name": "Quaker Oats 42oz Container",
+      "category": "cereals",
+      "brand": "quaker",
+      "size": "42oz",
+      "type": "container"
+    },
+    {
+      "id": "PEPSI_006",
+      "name": "7UP Regular 355ml Can 24pk",
+      "category": "carbonated drinks",
+      "brand": "7up",
+      "size": "355ml",
+      "type": "case"
+    }
+  ],
+  "external_products": [
+    {
+      "id": "EXT_001",
+      "name": "Pepsi Regular 10ml 33pk"
+    },
+    {
+      "id": "EXT_002",
+      "name": "Pepsi Cola 12oz 12ct"
+    },
+    {
+      "id": "EXT_003",
+      "name": "Pepsi Regular 67.6fl oz"
+    },
+    {
+      "id": "EXT_004",
+      "name": "Diet Pepsi 16.9fl oz 6 bottles"
+    },
+    {
+      "id": "EXT_005",
+      "name": "Mountain Dew 590ml single"
+    },
+    {
+      "id": "EXT_006",
+      "name": "Lays Original 1.41oz"
+    },
+    {
+      "id": "EXT_007",
+      "name": "Lays Classic 1.75oz 8 count"
+    },
+    {
+      "id": "EXT_008",
+      "name": "Lays BBQ 7oz"
+    },
+    {
+      "id": "EXT_009",
+      "name": "Doritos Nacho 4.9oz"
+    },
+    {
+      "id": "EXT_010",
+      "name": "Doritos Cool Ranch 2.25oz"
+    },
+    {
+      "id": "EXT_011",
+      "name": "Gatorade Frost Glacier 28fl oz"
+    },
+    {
+      "id": "EXT_012",
+      "name": "G2 Gatorade Fruit Punch 20fl oz 12 pack"
+    },
+    {
+      "id": "EXT_013",
+      "name": "Tropicana Orange Juice 52fl oz"
+    },
+    {
+      "id": "EXT_014",
+      "name": "Quaker Oats Original 1.19kg"
+    },
+    {
+      "id": "EXT_015",
+      "name": "7UP Soda 12oz 24 pack"
+    }
+  ],
+  "existing_mappings": []
+}
