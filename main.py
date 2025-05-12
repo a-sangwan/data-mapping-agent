@@ -7,7 +7,6 @@ from groq import Groq
 from langgraph.graph import END, StateGraph
 
 # Configure GROQ
-os.environ.setdefault("GROQ_API_KEY", "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")
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 
